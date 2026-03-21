@@ -24,7 +24,7 @@ if _needs_reload:
 bl_info = {
     "name": "Poser Rigger",
     "author": "Jess Green",
-    "version": (1, 0),
+    "version": (0, 1, 0),
     "blender": (4, 5, 3),
     "location": "View3D",
     "category": "Object",

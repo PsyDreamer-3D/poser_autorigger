@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 # Example of manifest file for a Blender extension
 # Change the values according to your extension
 id = "poser_autorigger"
-version = "1.0.0"
+version = "0.1.0"
 name = "Poser Auto-rigger"
 tagline = "Generates a control rig for base armatures imported as FBX files"
 maintainer = "Jess Green"
