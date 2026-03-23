@@ -100,6 +100,22 @@ The process to create the `LowerAbdomen` bone and reposition the `Body` bone and
   - [ ] Check for missing bones or naming conventions (warn if not standard).
   - [ ] Warn if FBX armature isn’t compatible (missing limbs, etc.).
 
+## Installing via the Self-Hosted Extension Repository
+
+This add-on is distributed as a Blender extension with automatic updates via GitHub Pages.
+
+To add the repository in Blender:
+
+1. Go to **Edit → Preferences → Get Extensions**.
+2. Click the **▾** menu next to *Repositories* and choose **Add Repository**.
+3. Enter the following URL:
+   ```
+   https://psydreamer-3d.github.io/poser_autorigger/index.json
+   ```
+4. Click **Add** and then refresh the extension list to find *Poser Auto-rigger*.
+
+> **Note for repository maintainers:** After the first tagged release workflow runs, you must enable GitHub Pages in the repository settings (**Settings → Pages**) and set the source to the `gh-pages` branch.
+
 ## Development
 
 ### Code Quality
